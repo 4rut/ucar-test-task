@@ -8,6 +8,10 @@
 - **Получить список инцидентов (с фильтром по статусу)**
 - **Обновить статус инцидента по id**
 
+## GitHub actions:
+Статус последнего выполненного теста: ![Tests](https://github.com/4rut/ucar-test-task/actions/workflows/ci.yml/badge.svg)
+
+[Ссылка на GitHub Actions](https://github.com/4rut/ucar-test-task/actions)
 
 ## Быстрый старт
 Запуск через Docker    
